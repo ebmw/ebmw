@@ -13,11 +13,9 @@
 
 - :telescope: I'm a Student at the National Higher School of Artificial Intelligence
 
-- :seedling: Certified Penetration Tester 
-
 - :atom: Quantum Enthusiast
 
-- :zap: In my free time, I do bug bounty hunting and explore quantum computing
+- :zap: In my free time, I play with notebooks and explore quantum computing
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="horizontal rainbow line">
