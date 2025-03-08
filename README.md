@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="horizontal aqua line">
 </p>
-
+![Animated Terminal](https://raw.githubusercontent.com/ebmw/animated-terminal/main/animated-terminal-fixed.svg)
 ### :book: About Me :
 
 - :telescope: I'm a Student at the National Higher School of Artificial Intelligence
