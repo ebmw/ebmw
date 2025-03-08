@@ -5,7 +5,7 @@
 
 [![](https://raw.githubusercontent.com/ebmw/Animated-Messages/main/chat.svg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![Animated Terminal](https://raw.githubusercontent.com/ebmw/animated-terminal/main/animated-terminal1.svg)
+![Animated Terminal](https://raw.githubusercontent.com/ebmw/animated-terminal/main/animated-terminal-loop%20.svg)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="horizontal aqua line">
